@@ -1,0 +1,10 @@
+data/
+084/
+vid_down_t/
+# Ignore all folders with numbers only as names
+[0-9]*/
+
+# ignore all folders regardless of their names
+**/
+
+*.ipynb_checkpoints
